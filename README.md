@@ -16,3 +16,5 @@ Insert two records with product data of your choosing (I used "Dog Collars" and 
 After inserting the records, execute a query against the table and display the resulting data.
 
 Once the data is displayed, delete the table and drop the database.
+
+Push your completed repo to GitHub.
